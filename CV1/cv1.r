@@ -1,0 +1,1 @@
+#Prvni cviceni predmetu DVZ
