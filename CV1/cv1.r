@@ -12,4 +12,4 @@ ls()
 rm(list=ls())
 ls()
 
-#Ranni test
+#Ranni testik
